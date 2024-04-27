@@ -13,7 +13,10 @@
 this is starter branch dont commit anything in this branch
 
 - clone this repo
+- Run composer install
 - change env.example to .env
+- Run php artisan key:generate
+- Run php artisan migrate
 - npm install
 - run npm run dev
 - make new terminal
