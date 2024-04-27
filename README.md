@@ -10,7 +10,8 @@
 ===========================================================================
 ## jangan update apapun di branch ini , gunakan branch satunya 'work' untuk tugas kelompok
 
-jika ingin masuk ke project fork , lalu lakukan [git chekout work] lalu commit disana
+<p> jika ingin masuk ke project fork , lalu lakukan [git chekout work] lalu commit disana</p>
+
 ===========================================================================
 ## How to Run
 
