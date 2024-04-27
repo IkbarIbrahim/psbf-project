@@ -10,9 +10,9 @@
 ===========================================================================
 ## How to Run
 
-this is starter branch dont commit anything in this branch
+this is work branch, fork it
 
-- clone this repo
+- fork this repo
 - Run composer install
 - change env.example to .env
 - Run php artisan key:generate
@@ -29,7 +29,6 @@ this is starter branch dont commit anything in this branch
 
 Starter Page using Laravel & tailwind css
 
-jangan update apapun di branch ini , gunakan branch satunya 'work' untuk tugas kelompok
 
 ===========================================================================
 ## License
