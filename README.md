@@ -27,8 +27,7 @@ this is work branch, fork it
 ===========================================================================
 ## PSBF Project
 
-Starter Page using Laravel & tailwind css
-
+Tugas project psbf
 
 ===========================================================================
 ## License
