@@ -29,7 +29,7 @@ this is starter branch dont commit anything in this branch
 
 Starter Page using Laravel & tailwind css
 
-### jangan update apapun di branch ini , gunakan branch satunya 'work' untuk tugas kelompok
+jangan update apapun di branch ini , gunakan branch satunya 'work' untuk tugas kelompok
 
 ===========================================================================
 ## License
