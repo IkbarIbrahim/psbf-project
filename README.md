@@ -21,6 +21,8 @@ this is starter branch dont commit anything in this branch
 - run npm run dev
 - make new terminal
 - run php artisan serve
+- run git remote remove origin https://github.com/Vall-Here/psbf-project.git
+
 
 ===========================================================================
 ## PSBF Project
