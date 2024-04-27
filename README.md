@@ -8,6 +8,8 @@
 </p>
 
 ===========================================================================
+## jangan update apapun di branch ini , gunakan branch satunya 'work' untuk tugas kelompok
+===========================================================================
 ## How to Run
 
 this is starter branch dont commit anything in this branch
