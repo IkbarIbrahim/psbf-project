@@ -192,16 +192,6 @@
     </div>
   </main>
 </div>
-
-
-
-
-
-
-
-
-
-
 <script>
   let icon1 = document.getElementById("icon1");
   let menu1 = document.getElementById("menu1");

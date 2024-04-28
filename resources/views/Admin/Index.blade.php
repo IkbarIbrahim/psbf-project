@@ -5,7 +5,7 @@
 
 <!-- delete border when used -->
 <section class="w-full h-screen border-dotted border-4 border-light-blue-500 bg-white-800">
-    # Main section
+    @yield('content-admin-index')
 </section>
 
 @endsection
